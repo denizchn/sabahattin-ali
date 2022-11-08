@@ -2,4 +2,4 @@
 
 ## Live Link:
 
-## https://denizchn.github.io/sabahattin-ali/
+## https://fadimecihan.github.io/sabahattin-ali/
